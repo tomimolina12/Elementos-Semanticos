@@ -1,0 +1,30 @@
+/* 
+selector {
+    propiedad: valor;
+    propiedad:valor;
+
+}
+*/
+body {
+    background-color:aquamarine;
+}
+
+
+h1 {
+    color: brown;
+    background-color:black;
+}
+h2{
+    color:black
+}
+p {
+    color: blue;
+}
+em {
+    color: red;
+}
+img {
+    width: 700px;
+
+
+}
